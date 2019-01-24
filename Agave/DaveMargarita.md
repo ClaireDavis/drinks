@@ -14,7 +14,7 @@
   *  3/4 oz triple seq (suggestion: Cointreau)
   *  1/2 oz clarified lemon juice
   *  1/2 oz clarified lime juice
-  *  1/2 oz agave syrup
+  *  1/2 oz agave nectar
 
 ### Directions:
   1. Assemble ingredients and shake (~12 seconds)
